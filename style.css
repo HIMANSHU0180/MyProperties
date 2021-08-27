@@ -89,3 +89,39 @@
 .buttons button:hover{
 	background: #cc0000;
 }
+.footer{
+	position: fixed;
+	height: 80px;
+	width: 100%;
+	bottom: 0;
+	left: 0;
+	background: rgba(124, 86, 86, 0.4);
+}
+input {
+	width: 400px;
+	height:10px;
+	padding: 9px 20px;
+	margin: 2px 0;
+	box-sizing: border-box;
+	-moz-appearance: textfield;
+
+  }
+  label {
+	  size: 24px;
+	  margin-left: 25px;
+	  color: white;
+  }
+  .btnn{
+	font-size: 22px;
+	margin-left:50%;
+	height:30px;
+	width:100px;
+	margin-right: 50%;
+	margin-top: 5px;
+	border-radius:25px;
+	background-color:red;
+  }
+  .btn{
+	margin-left: 12px;
+
+  }
